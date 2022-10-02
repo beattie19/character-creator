@@ -2,3 +2,12 @@
   overflow-x: scroll;
   white-space: nowrap;
 }
+
+@media only screen and (max-width: 600px) {
+    .buttonRow {
+        overflow-x: scroll;
+        white-space: nowrap;
+        width: 300px;
+    }
+
+}
