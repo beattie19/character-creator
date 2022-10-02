@@ -1,6 +1,8 @@
 .characterEditor {
   padding-top: 128px;
   padding-bottom: 64px;
+    background: linear-gradient(0deg, hsl(195deg, 20%, 86%) 50%, hsl(180deg, 25%, 92%) 50%) fixed;
+    background-size: 40% 120%;
 }
 
 .maxWidthWrapper {
@@ -29,7 +31,7 @@
     width: 35%;
     min-height: 500px;
     position: fixed;
-    right: 0;
+    right: 150px;
     top: 0;
 }
 
